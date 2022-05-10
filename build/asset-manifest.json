@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87a4c3b2.css",
+    "main.js": "/static/js/main.d60a69c0.js",
+    "static/js/787.fec03637.chunk.js": "/static/js/787.fec03637.chunk.js",
+    "static/media/tecLogo.png": "/static/media/tecLogo.246037c880253935589e.png",
+    "index.html": "/index.html",
+    "main.87a4c3b2.css.map": "/static/css/main.87a4c3b2.css.map",
+    "main.d60a69c0.js.map": "/static/js/main.d60a69c0.js.map",
+    "787.fec03637.chunk.js.map": "/static/js/787.fec03637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87a4c3b2.css",
+    "static/js/main.d60a69c0.js"
+  ]
+}
